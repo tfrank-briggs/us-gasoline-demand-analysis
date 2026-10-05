@@ -80,7 +80,9 @@ The analysis covers January 2010 through December 2025.
 
 ## Research Paper
 
-The SSRN link to the published paper will be added here after publication.
+The research paper has been submitted to the Social Science Research Network (SSRN).
+
+**SSRN:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7565979
 
 ## Author
 
